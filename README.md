@@ -41,7 +41,7 @@ npx hardhat test
 
 
 
-👉 **[View HW1 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw1-counter)**
+👉 **[View HW1 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw1-counter-hardhat-template)**
 
 ### 🔹 HW2 — Confidential Vault
 
@@ -59,7 +59,7 @@ npx hardhat test
 
 
 
-👉 **[View HW2 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw2-vault)**
+👉 **[View HW2 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw2-confidential-vault-template)**
 
 ### 🔹 HW3 — Sealed-Bid Auction
 
@@ -77,7 +77,7 @@ npx hardhat test
 
 
 
-👉 **[View HW3 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw3-auction)**
+👉 **[View HW3 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw3-sealed-auction-template)**
 
 ### 🔹 HW4 — Capstone Project
 
@@ -99,7 +99,7 @@ npx hardhat test
 
 
 
-👉 **[View HW4 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw4-capstone)**
+👉 **[View HW4 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw4-capstone-template)**
 
 ---
 
