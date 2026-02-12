@@ -41,7 +41,7 @@ npx hardhat test
 
 
 
-👉 **[View HW1 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw1-counter-hardhat-template)**
+👉 **[View HW1 Folder](https://github.com/Sunki077/fhevm-bootcamp-starters/tree/main/hw1-counter-hardhat-template)**
 
 ### 🔹 HW2 — Confidential Vault
 
@@ -59,7 +59,7 @@ npx hardhat test
 
 
 
-👉 **[View HW2 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw2-confidential-vault-template)**
+👉 **[View HW2 Folder](https://github.com/Sunki077/fhevm-bootcamp-starters/tree/main/hw2-confidential-vault-template)**
 
 ### 🔹 HW3 — Sealed-Bid Auction
 
@@ -77,7 +77,7 @@ npx hardhat test
 
 
 
-👉 **[View HW3 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw3-sealed-auction-template)**
+👉 **[View HW3 Folder](https://github.com/Sunki077/fhevm-bootcamp-starters/tree/main/hw3-sealed-auction-template)**
 
 ### 🔹 HW4 — Capstone Project
 
@@ -99,7 +99,7 @@ npx hardhat test
 
 
 
-👉 **[View HW4 Folder](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw4-capstone-template)**
+👉 **[View HW4 Folder](https://github.com/Sunki077/fhevm-bootcamp-starters/tree/main/hw4-capstone-template)**
 
 ---
 
@@ -167,7 +167,7 @@ We welcome contributions to improve these starter kits!
 
 1. Check out a branch: `git checkout -b feature/improve-template`
 2. Commit your changes: `git commit -m "Description of improvement"`
-3. Open a **Pull Request** on [GitHub](https://github.com/Sunki77/fhevm-bootcamp-starters).
+3. Open a **Pull Request** on [GitHub](https://github.com/Sunki077/fhevm-bootcamp-starters).
 
 ---
 
@@ -184,7 +184,7 @@ This repository is released under the **MIT License**. Feel free to use, modify,
 
 ---
 
-**Ready to build privacy-preserving dApps?** 👉 **[Start with HW1 →](https://github.com/Sunki77/fhevm-bootcamp-starters/tree/main/hw1-counter-hardhat-template)**
+**Ready to build privacy-preserving dApps?** 👉 **[Start with HW1 →](https://github.com/Sunki077/fhevm-bootcamp-starters/tree/main/hw1-counter-hardhat-template)**
 
 ---
 
