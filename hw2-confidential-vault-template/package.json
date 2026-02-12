@@ -1,0 +1,12 @@
+{
+  "name": "fhevm-hw-template",
+  "version": "0.1.0",
+  "scripts": { "test": "npx hardhat test" },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "chai": "^4.3.7",
+    "ethers": "^6.8.0",
+    "hardhat": "^2.17.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
