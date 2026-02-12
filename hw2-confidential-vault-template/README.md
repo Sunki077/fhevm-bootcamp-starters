@@ -1,5 +1,3 @@
-### 2. `hw2-confidential-vault-template/README.md`
-
 # HW2: Confidential Vault
 
 Now that you know how to store a single encrypted value, let's build a vault where multiple users can have secret balances.
